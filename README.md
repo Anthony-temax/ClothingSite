@@ -21,7 +21,6 @@
 
 - HTML
 - CSS
-- JavaScript
 - Sass [📄](https://sass-lang.com/documentation) 
 - ScrollReveal.js [📄](https://scrollrevealjs.org/guide/hello-world.html) 
 
